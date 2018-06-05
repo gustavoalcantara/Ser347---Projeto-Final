@@ -1,1 +1,2 @@
 # Ser347---Projeto-Final
+O presente trabalho apresenta o projeto final da disciplina SER347 do curso de Pós Graduação em Sensoriamento Remoto no Instituto Nacional de Pesquisas Espaciais. O trabalho constitui da ánalise do reservatório Pedro Beicht localizado em Cotia, SP, em duas datas: 01/01/2015 e 10/05/2018.A escolha da primeira data é devido à seca anormal ocorrida no estado de São Paulo nos anos de 2014/15. A segunda demonstra a represa em seu nível normal de operação. Assim, foi possivel calcular a área e o quanto de variação se teve ao decorrer dos anos analisados. 
